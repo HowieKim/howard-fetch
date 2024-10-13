@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">fetch</string>
+    <string name="uh_oh_something_went_wrong">Uh oh! Something went wrong</string>
+    <string name="accessibility_title">Search Activity</string>
+    <string name="retry">Retry</string>
+    <string name="list_id">List ID</string>
+    <string name="name">Name</string>
+    <string name="drop_down_content_description">Drop down arrow</string>
+    <string name="none_selected">None Selected</string>
+    <string name="group_by_list_id">Group by List ID</string>
+</resources>
